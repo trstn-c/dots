@@ -1,39 +1,11 @@
- _____     ______     ______   ______    
-/\  __-.  /\  __ \   /\__  _\ /\  ___\   
-\ \ \/\ \ \ \ \/\ \  \/_/\ \/ \ \___  \  
- \ \____-  \ \_____\    \ \_\  \/\_____\ 
-  \/____/   \/_____/     \/_/   \/_____/ 
-
-
-                                         
- __  _  _ __    __    ____    ___   __  __  _ __   ___     __    ____  
-/\ \/'\/\`'__\/'__`\ /',__\  / __`\/\ \/\ \/\`'__\/'___\ /'__`\ /',__\ 
-\/>  </\ \ \//\  __//\__, `\/\ \L\ \ \ \_\ \ \ \//\ \__//\  __//\__, `\
- /\_/\_\\ \_\\ \____\/\____/\ \____/\ \____/\ \_\\ \____\ \____\/\____/
- \//\/_/ \/_/ \/____/\/___/  \/___/  \/___/  \/_/ \/____/\/____/\/___/                                                                    
-
-
-
 ! Cursor
 Xcursor.theme: Breeze_Snow
 Xcursor.size: 16
 
-! Rofi
-rofi.font: Roboto 25
-rofi.separator-style: none
-rofi.scrollbar-width: 0
-rofi.location: 1
-rofi.yoffset: 120
-rofi.xoffset: 120
-rofi.padding: 40
-rofi.lines: 5
-rofi.width: 20
-rofi.bw: 0
-
 ! URXVT
 ! Miscellany
 URxvt.internalBorder: 20
-URxvt.geometry: 120x40
+URxvt.geometry: 80x24
 URxvt.scrollBar: false
 URxvt*buffered: false
 urxvt*depth: 32

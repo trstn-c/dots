@@ -1,0 +1,43 @@
+!	   _             
+!	 _//             
+!	 /   . . _. __  ,
+!	/___(_/_(__/ (_/_
+!	              /  
+!	             '   
+
+! special
+*.foreground:   #d1d1d1
+*.background:   #1d1f21
+*.cursorColor:  #d1d1d1
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #ff3a6a
+*.color9:       #ff6188
+
+! green
+*.color2:       #95d457
+*.color10:      #a9dc76
+
+! yellow
+*.color3:       #ffc92b
+*.color11:      #ffd866
+
+! blue
+*.color4:       #568de2
+*.color12:      #78a4e8
+
+! magenta
+*.color5:       #6146e7
+*.color13:      #ab9df2
+
+! cyan
+*.color6:       #56d3e2
+*.color14:      #78dce8
+
+! white
+*.color7:       #f8f8f2
+*.color15:      #f9f8f5

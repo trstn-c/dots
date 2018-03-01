@@ -1,0 +1,108 @@
+# Stella
+# Minimal
+
+# Globals
+*.*.label.bg: parentrelative
+window.*.label.text.color: #373b41
+*.*.button.*.bg: parentrelative
+
+# Windows
+padding.width: 0
+padding.height: 0
+border.width: 2
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+window.label.text.justify: right
+
+# Active windows
+window.active.title.bg: flat
+window.active.title.bg.color: #1d1f21
+window.active.border.color: #1d1f21
+window.active.label.text.color: #ff3a6a
+
+window.active.button.unpressed.image.color: #ff3a6a
+window.active.button.hover.image.color: #6146e7
+window.active.button.pressed.image.color: #568de2
+
+# Inactive windows
+window.inactive.title.bg: flat
+window.inactive.title.bg.color: #1d1f21
+window.inactive.border.color: #1d1f21
+window.inactive.label.text.color: #568de2
+
+window.inactive.button.unpressed.image.color: #568de2
+window.inactive.button.hover.image.color: #6146e7
+window.inactive.button.pressed.image.color: #ff3a6a
+
+# OSD
+osd.border.color: #1d1f21
+
+osd.bg: flat solid
+osd.bg.color: #1d1f21
+osd.label.text.color: #ff3a6a
+
+osd.active.label.bg: flat solid
+osd.active.label.bg.color: #1d1f21
+osd.active.label.text.color: #ff6188
+
+osd.inactive.label.bg: flat solid
+osd.inactive.label.bg.color: #1d1f21
+osd.inactive.label.text.color: #6146e7
+
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #568de2
+
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #78a4e8
+
+osd.button.unpressed.bg: flat solid border 
+osd.button.unpressed.bg.color: #1d1f21
+osd.button.unpressed.*.border.color: #1d1f21
+osd.button.unpressed.text.color: #ff3a6a
+
+osd.button.hover.bg: flat solid border
+osd.button.hover.bg.color: #292c2f
+osd.button.hover.*.border.color: #292c2f
+osd.button.hover.text.color: #6146e7
+
+osd.button.pressed.bg: flat solid border 
+osd.button.pressed.bg.color: #373b41
+osd.button.pressed.*.border.color: #568de2
+osd.button.pressed.text.color: #568de2
+
+osd.button.focused.bg: flat solid border 
+osd.button.focused.bg.color: #292c2f
+osd.button.focused.*.border.color: #292c2f
+osd.button.focused.text.color: #ab9df2
+
+osd.button.focused.box.color: #292c2f
+
+
+
+# Menu 
+menu.items.bg: flat solid
+menu.items.bg.color: #1d1f21
+menu.items.text.color: #ff3a6a
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #1d1f21
+menu.items.active.text.color: #568de2
+menu.items.disabled.text.color: #ff6188
+
+menu.separator.color: #292c2f
+menu.separator.width: 1
+menu.separator.padding.width: 0
+menu.separator.padding.height: 2
+
+menu.title.bg: flat solid
+menu.title.bg.color: #26292b
+menu.title.text.color: #ff3a6a
+menu.title.text.justify: left
+
+menu.border.width: 0
+menu.border.color: #292c2f
+
+menu.overlap.x: -2
+menu.overlap.y: -2

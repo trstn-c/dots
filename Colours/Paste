@@ -1,0 +1,41 @@
+!  ____   __    ___  ____  ____ 
+! (  _ \ /__\  / __)(_  _)( ___)
+!  )___//(__)\ \__ \  )(   )__) 
+! (__) (__)(__)(___/ (__) (____)
+
+! special
+*.foreground:   #c5c8c6
+*.background:   #1d1f21
+*.cursorColor:  #c5c8c6
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #ec447e
+*.color9:       #fab5c8
+
+! green
+*.color2:       #44ecb2
+*.color10:      #b5fae7
+
+! yellow
+*.color3:       #ecb244
+*.color11:      #f6d57e
+
+! blue
+*.color4:       #447eec
+*.color12:      #b5c8fa
+
+! magenta
+*.color5:       #b244ec
+*.color13:      #e7b5fa
+
+! cyan
+*.color6:       #44d2ec
+*.color14:      #b5ebfa
+
+! white
+*.color7:       #ececec
+*.color15:      #fdfdfd
